@@ -312,8 +312,8 @@ is.
 
 ## Licence
 
-MIT — see [`LICENSE`](LICENSE). The released adapters inherit the licence of the base model
-they are trained on; see [`docs/release_manifest.md`](docs/release_manifest.md).
+Apache License 2.0 — see [`LICENSE`](LICENSE). The released adapters inherit the licence of
+the base model they are trained on; see [`docs/release_manifest.md`](docs/release_manifest.md).
 
 ## Citation
 
